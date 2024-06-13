@@ -8,7 +8,7 @@ SHELL ["/bin/bash", "-c"]
 ARG DEBIAN_FRONTEND=noninteractive
 
 ARG workstation_ip=192.168.0.1
-ARG realtime_computer_ip=192.168.0.3
+ARG realtime_computer_ip=192.168.0.2
 ARG robot_server_version=5
 
 # Dependencies for latency plot
